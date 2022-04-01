@@ -1,6 +1,6 @@
 {
-    "name": "simple_geo_app",
-    "short_name": "simple_geo_app",
+    "name": "tesweb",
+    "short_name": "tesweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
